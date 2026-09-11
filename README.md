@@ -231,3 +231,6 @@ This repository serves as the official landing page for Captain Binary. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Captain Binary today!**
+
+---
+**Last updated:** 2026-09-11 13:12:05 UTC
